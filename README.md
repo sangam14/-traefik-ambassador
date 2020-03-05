@@ -1,6 +1,7 @@
 #  traefik-ambassador Workshop 
 
-## Welcome
+## traefik architecture
+![](https://raw.githubusercontent.com/containous/traefik/v2.1/docs/content/assets/img/traefik-architecture.png)
 
 # Quick Start
 
